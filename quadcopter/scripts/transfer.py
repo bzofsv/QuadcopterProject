@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#transfers the data from raspberry pi to the Arduino flight controller
 import rospy
 import serial
 from std_msgs.msg import String
